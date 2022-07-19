@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Spyder Editor
 
-This is a temporary script file.
-"""
 import re #re will be used to ensure the correct combination is used on the lock.
 
 def help():
